@@ -39,3 +39,7 @@ backups/
 *.db
 *.db-wal
 *.db-shm
+cloudflared.exe
+*.exe
+nul
+NUL
