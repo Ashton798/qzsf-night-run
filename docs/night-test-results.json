@@ -1,0 +1,12 @@
+{
+  "checks": 29,
+  "clients": 600,
+  "batchSize": 10,
+  "totalPoints": 6000,
+  "wallMs": 943,
+  "p50Ms": 439,
+  "p95Ms": 841,
+  "maxMs": 867,
+  "errors": 0,
+  "limitations": "Local HTTP burst using synthetic coordinates; not mobile field testing or sustained production capacity."
+}

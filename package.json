@@ -1,0 +1,21 @@
+{
+  "name": "qzsf-orienteering",
+  "version": "2.0.0",
+  "private": true,
+  "description": "泉州师范学院第九届校园荧光夜跑赛事系统",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "init-admin": "node server/scripts/init-admin.js",
+    "backup": "node server/scripts/backup.js",
+    "test": "node server/scripts/smoke-test.js",
+    "update-routes": "node server/update-routes.js",
+    "vercel-build": "node -e \"console.log('Vercel static build ready')\""
+  },
+  "dependencies": {}
+}

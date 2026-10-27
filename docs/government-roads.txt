@@ -1,0 +1,878 @@
+泉州市丰泽区人民政府关于公布东海片区海丝大街”等17条市政道路名称的通知_城市建设管理_丰泽区人民政府
+.info_public_bg { background: url(/images/2023_xxgk_bg.png) no-repeat center 1rem #f2f2f2; }
+.header_21{border-bottom:6px solid #1658a0;}
+.header_21_con1{ box-sizing: content-box;}
+.header_21_con2{ display: none;}
+.content_bg_02{ box-shadow: 0 8px 20px rgba(22,88,160,.08);}
+.share-box{ top:41px;}
+.share-box::before{ left: 70%;}
+@media screen and (max-width: 999px){
+	.nav_21{ padding-left:0.1rem;}
+}
+@media screen and (max-width: 992px){
+	.nav_21>ul>li {margin-right: .08rem;}
+	.nav_21::after{ width: .6rem;}
+	.header_21_logo { padding-left: .1rem !important;}
+	.header_21_tit { top: -.45rem; right: .1rem;}
+.footer_21_tit_l{ padding:.1rem 0 0}
+}
+
+
+/*适老版头底部样式*/
+.slb .header_21_tit>span{ height: 34px; border-radius: 17px;}
+.slb .header_21_tit,.slb .header_21_tit>span,.slb .header_21_a_link a,.slb .header_21_font li a,.slb .header_21_font li em{ font-size: 20px; line-height: 34px;}
+.slb .header_21_font{ padding: 0 10px;}
+.slb .zw_tit1_l{ margin-top:5px;}
+.slb .header_21_tit>span{ margin-left: 10px;}
+.slb .header_21_con1{ height: auto;}
+.slb .header_21_con1_r{ padding-top: 15px !important; float: inherit !important; width: 100%;}
+.slb .header_21_tq{ font-size: 28px; line-height: 40px;}
+.slb .header_21_ss{ height: 60px; line-height: 60px; margin-top: 10px; width: 42%;}
+.slb .header_21_picker{ line-height: 40px; height: 40px; width: 25%;}
+.slb .header_21_picker input{ font-size: 28px; padding-left: 30px;}
+.slb .header_21_picker::after{ width: 2px; height: 30px;}
+.slb .header_21_inp{ font-size: 28px; line-height: 40px; height: 40px;}
+.slb .header_21_btn{ width: 30px;}
+.slb .header_21_btn i{ font-size: 34px;}
+.slb .nav_21{ margin-top:8px;}
+.slb .nav_21>ul{ float: inherit; width: 100%;}
+.slb .nav_21>ul>li{ font-size: 36px; margin: 0; width:14.285714%; text-align: center;}
+.slb .nav_21>ul>li>a{ padding-bottom:15px;}
+.slb .header_21_con1.fixed{ height: 94px;}
+.slb .nav_21_con{top:184px;height: 134px;}
+.slb .nav_21>ul>li.jdhy .nav_21_con{ padding-left:0}
+.slb .nav_21>ul>li.zwgk:hover .nav_21_con{ height:122px; padding-top:14px;}
+.slb .nav_21>ul>li:hover .nav_21_con a{line-height:50px; font-size:30px;}
+.slb .nav_21>ul>li.jdhy:hover .nav_21_con a,.nav_21>ul>li.hdjl:hover .nav_21_con a{ line-height:130px;}
+.slb .fixed .header_21_logo,.slb .fixed .header_21_tit,.slb .fixed_ss_inp{ display: none;}
+.slb .header_21_con1.fixed .header_21_con1_r{ width: 100%; position: relative; padding-top: 12px !important;}
+.slb .header_21_con1.fixed .header_21_con1_r .nav_21{ width:95%; margin-top: 2px;}
+.slb .fixed .nav_21>ul{ float: inherit;}
+.slb .fixed .nav_21>ul>li{ width: auto; margin-right:35px; margin-left: 0; text-align: left;}
+.slb .header_21_con1.fixed .header_21_con1_r .nav_21>ul>li{ margin-left: 0;}
+.slb .fixed .fixed_ss{ width: 50px; height: 50px; border-radius: 100%; padding: 0;}
+.slb .fixed .fixed_ss_btn{ display: block; margin:7px auto 0; float: none;}
+.slb .fixed .fixed_ss_btn i{ font-size:32px; color: #1658a0;}
+.slb .header_bg .header_21_con2 .header_21_ss{ height: 66px; width: 70%; border-radius: 35px;}
+.slb .header_bg .header_21_llms a{ border-radius: 30px; font-size: 30px;}
+.slb .header_bg .header_21_llms a i{ font-size: 34px;}
+.slb .header_bg .header_21_picker{ width: 150px;}
+.slb .header_bg .header_21_picker input{ width: 80px;}
+.slb .nav_21_bg{ top: 208px;}
+.slb .szf_nav a,.slb .zwgk_nav a,.slb .jdhy_nav a,.slb .bsfw_nav a,.slb .hdjl_nav a{ line-height: 48px;}
+.slb .szf_nav a, .slb .zwgk_nav a, .slb .jdhy_nav a, .slb .bsfw_nav a, .slb .hdjl_nav a{font-size: 24px;}
+.slb .szf_nav span{font-size: 24px;}
+
+.slb .footer_21_tit_r{ display: none;}
+.slb .footer_21 .el-col-12{ width: 80%; text-align: center;}
+.slb .footer_21_tit_l{ float: none; line-height: 48px; font-size: 24px;}
+.slb .footer_21_tit1{ line-height: 48px; font-size: 24px;}
+.slb .header_21_llms a.wza_bar{ display: none;}
+.slb .yqlj_tit1>ul>li p em{ top: 20px;}
+.slb .yqlj_tit1>ul>li .yqlj_con1{ bottom:52px; right: 0; height: 300px; overflow-y: auto; z-index:8;}
+.slb .yqlj_tit1>ul>li{ position: relative;}
+.slb .yqlj_tit1>ul>li .yqlj_con1 li{ width: 100%; float: inherit; line-height: 46px;}
+.slb .yqlj_tit1>ul>li {
+    width: 32.33%;
+}
+
+.slb .yqlj_tit1>ul>li p,.slb .yqlj_tit1>ul>li .yqlj_con1 li {
+    font-size: 20px;
+}
+.ifr {
+		    width: 100%;
+		    height: 1178px;
+		}
+		.share:hover .share-box {
+		    display: block;
+		}
+国务院
+省政府
+市政府
+简体
+繁体
+|
+移动版
+闽政通APP
+登录
+|
+注册
+网站支持IPV6
+首页
+区政府
+政务公开
+解读回应
+办事服务
+互动交流
+走进丰泽
+
+区 长：
+张健龙
+副区长：
+蔡宁波
+杨柳刚
+丁增辉
+李勇
+戴隽翔
+魏璐莎
+政府会议
+机构设置
+政府工作报告
+区长信箱
+政府信息公开
+最新文件
+法律法规
+规划计划
+统计信息
+财政资金
+行政权力
+重点领域信息公开
+专题专栏
+政策文件库
+福建省网上办事大厅
+闽政通APP
+政务指南
+便民服务地图
+区长信箱
+网上信访
+智能问答
+在线访谈
+12345平台
+12345用户留言分析
+意见征集
+网上调查
+
+
+
+{{el.name|text}}
+
+长者模式
+
+无障碍浏览
+长者模式
+无障碍浏览
+当前位置：
+首页
+>
+政务公开
+>
+政府信息公开
+>
+区政府文件
+>
+城市建设管理
+索 引 号：QZ02101-0700-2025-00181
+备注/文号：泉丰政综〔2025〕171号
+发布机构：区人民政府办公室
+公文生成日期：2025-10-13
+泉州市丰泽区人民政府关于公布东海片区海丝大街”等17条市政道路名称的通知
+时间：2025-10-14 15:40
+微信
+QQ空间
+微博
+各街道办事处，各有关单位：
+为加强城市地名的规范化管理，优化城市发展环境，促进城市文明建设，根据《地名管理条例》（国务院令第753号）、《中华人民共和国国家标准—地名标志（GB 17733—2008）》《中国地名汉语拼音字母拼写规则（汉语地名部分）》《福建省地名管理办法》（福建省政府令第143号）和福建省地方标准《人文地理实体地名通名使用规范》（DB35/T 1644—2017）有关规定，应建设、管理使用单位申请，依法定程序完成实地踏勘、征求社会公众意见、社会稳定风险评估和专家反复论证等工作，并报市民政局审核同意，现将东海片区“海丝大街”等17条道路及泉州师范学院校内道路、湖泊及公寓区命名方案公布如下（详见附件1、附件2、附件3），请及时按标准地名做好后续工作。
+东海片区“海丝大街”等17条道路及泉州师范学院校内道路命名名称为标准地名，机关行文、邮电通信、交通运输、城市建设、新闻出版、工商注册、房产登记等，必须依照《地名管理条例》相关规定使用标准地名；相关行政主管部门和其他有关部门应当在各自职责范围内，依据标准地名编制标准地址并设置标志。
+附件：1.东海片区命名、更名道路一览表；
+2.泉州师范学院校内命名道路一览表；
+3.泉州师范学院校内命名湖泊及公寓区一览表；
+4.东海片区命名、更名道路示意图；
+5.泉州师范学院校园内命名道路、湖泊及公寓区示意图。
+泉州市丰泽区人民政府
+2025年10月13日
+附件
+1
+东海片区命名、更名道路一览表
+序号
+原规划
+道路名称
+命名道路名称
+命名的缘由或含义
+道路
+走向
+起止地点
+长宽度
+汉字
+拼音
+起
+止
+长度（
+m）
+宽度（
+m）
+1
+学堂路
+Xuétáng Lù
+“学堂路”取义“学校集中、文教兴盛”，作为教育场所的直观标识，方便市民识别方位，强化 “教育街区”的功能认知，承载着深厚的历史底蕴，彰显着当下的区域功能，更寄托着对未来的美好愿景。
+南北
+通港
+西街
+海丝
+大街
+397
+12
+2
+泰禾路
+景和路
+Jǐnghé Lù
+“景”指自然景观和人文景观。自然景观：呼应东海片区的滨海风光、晋江与洛阳江双水环绕、湿地公园等生态资源；人文景观：关联东海澄清府公宫的民间信仰建筑。“和”寓意和谐、安宁，延续闽南文化“和顺永宁”的民俗祈愿，契合“澄清府公宫”的庇佑寓意。
+南北
+海丝
+大街
+丰海路
+183
+12
+3
+经四路
+顶曾路
+D
+ǐnɡzēnɡ
+L
+ù
+以
+“顶曾村”村落命名体现自然地理特征和历史文化底蕴，是对村落历史的一种传承和延续，彰显村落的文化特色和历史渊源。
+南北
+滨城
+大街
+平海
+大街
+207
+12
+4
+经五路
+金瓯路
+Jīnōu Lù
+？？？？
+以
+“金瓯宫”为核心意象，呼应东海片区的地理坐标。金瓯在泉州方言中寓意疆土完整，象征此地作为海丝文化的重要承载地。
+南北
+滨城
+大街
+丰海路
+769
+12
+5
+经六路
+凤埔路
+Fèngpǔ Lù
+凤埔路的命名直接沿用了古地名
+“凤埔”，以保留区域历史记忆，与后埔村形成地名呼应。东海片区的后埔旧称“凤埔”，地名仍沿用传统名称，体现历史延续性。
+南北
+滨城
+大街
+丰海路
+790
+12
+6
+经七路
+后埔路
+Hòupǔ Lù
+以所在区域
+“后埔社区”命名为后埔路，直接表明了道路的地理位置，具有较强的地域指向性和辨识度，旨在保留和体现当地的历史文化记忆，了解该片区的历史变迁和文化传承。
+南北
+滨城
+大街
+丰海路
+798
+12
+7
+经八路
+通海
+大道
+Tōnɡhǎi Dàdào
+以
+“通海”命名呼应泉州“海上丝绸之路”起点的历史基因，象征其服务海洋经济、延续向海开放的发展定位。
+南北
+通港
+东街
+丰海路
+2157
+50
+8
+经九路
+霞堡路
+Xiábǎo Lù
+？？
+“霞”字具有积极美好的象征意义，“下”与“霞”同音转换，通过同音替换实现地名雅化。保留“堡”字，直接表明了道路与下堡村的紧密联系，通过将“下堡”雅化为“霞堡”，既保留了原有地名的文化记忆，又赋予了其新的文化内涵，实现了文化的传承与创新。
+南北
+丰海路
+滨城
+大街
+933
+12
+9
+宝藏街
+Bǎozàng
+Jiē
+相传此地埋有宝藏，宋代书法家米芾在路边大石上书有
+“宝藏”二字，故名。
+东西
+三坪街
+通海大道
+656
+12
+10
+原支十六路
+延圣路
+Yánshèng Lù
+“延”有延续、传承之意，“圣”可引申为圣贤之道、文化精髓。“延圣”旨在通过“延圣”传递对历史文化的尊重，以及对区域发展中人文精神的坚守。
+南北
+通港
+东街
+宝藏街
+271
+12
+11
+大兴街
+平海
+大街
+Pínghǎi Dàjiē
+为配合东海片区城市功能升级及文化品牌建设，经实地调研、专家论证并征求社会公众意见，将东海片区原
+“大兴街”（法坊路至通港东街段；东宏路至丰海路段；）更名为“平海大街”。该名称既呼应泉州“海上丝绸之路起点”的历史渊源，又体现东海片区滨海区位特征。“平海”曾为泉州市的古称：明代为平息东南沿海倭患，朝廷在闽粤设“平海卫”，取“平定海疆、永保安宁”之意。以“平海”命名主干大街，既延续“海疆永平”的历史寓意，也契合片区打造“海上泉州”门户、追求港城安宁与繁荣的发展愿景。
+东西
+法坊路
+丰海路
+5890
+50
+12
+后厝街
+后厝街
+Hòucuò Jiē
+沿用原规划名称命名。
+东西
+金瓯路
+艺术路
+（规划名）
+1439
+20
+13
+港湾街
+海丝
+大街
+Hǎisī DàJiē
+为配合东海片区城市功能升级及文化品牌建设，经实地调研、专家论证并征求社会公众意见，将东海片区原
+“港湾街”（通港西街至通港东街段；维林森数字化产业园至滨海街段）更名为“海丝大街”。呼应海丝泉州的历史地位。
+东西
+通港
+西街
+府东路
+6371
+50
+14
+梅里街
+Méilǐ Jiē
+以
+“梅里村”村落命名体现自然地理特征和历史文化底蕴，是对村落历史的一种传承和延续，彰显村落的文化特色和历史渊源。
+东西
+纬五路
+东宏路
+175
+12
+15
+三坪街
+Sānpíng Jiē
+以
+“三坪村”村落命名体现自然地理特征和历史文化底蕴，是对村落历史的一种传承和延续，彰显村落的文化特色和历史渊源。
+东西
+通港
+东街
+宝藏街
+617
+12
+16
+纬一路
+延年街
+Yánnián Jiē
+沿用原规划名称命名。
+东西
+府东
+北路
+丰海路
+411
+12
+17
+梅柄路
+Méibǐng Lù
+取此地历史地名
+“梅柄”旧称为路名。
+南北
+三坪街
+宝藏街
+482
+12
+附件
+2
+泉州师范学院校内道路命名一览表
+序号
+原规划道路
+名称
+命名道路名称
+命名的缘由或含义
+道路
+走向
+起止地点
+长宽度
+汉字
+拼音
+起
+止
+长度（
+m）
+宽度（
+m）
+1
+善学路
+Shànxué Lù
+源自《礼记？学记》
+“善学者，师逸而功倍”。
+东西
+陈伟利
+体育馆
+学生公寓
+C区（文馨苑）
+1093
+10
+2
+求是路
+Qiúshì Lù
+源自
+《汉书
+·河间献王刘德传》中“修学好古，实事求是”。
+东西
+荣茂楼
+东篮球场
+738
+12
+3
+行知路
+Xíngzhī Lù
+取自陶行知
+“知行合一”教育思想与王阳明“知行合一”哲学理念。
+东西
+音乐与舞蹈学院
+学生活动
+中心
+953
+10
+4
+正心路
+Zhèngxīn Lù
+取自《大学》
+“欲修其身者，先正其心”。
+东西
+东海大街学校侧大门
+石壁村
+535
+10
+5
+明德路
+Míngdé Lù
+源自《大学》首句
+“大学之道，在明明德”。
+南北
+骆忠信教学楼
+王爱约
+实验楼
+316
+10
+6
+光地路
+Guāngdì Lù
+纪念清代理学名臣李光地（安溪人），其编纂的《朱子全书》影响深远。
+南北
+善学路
+求实路
+550
+10
+7
+笃行路
+Dǔxíng Lù
+源自《礼记
+·儒行》：“儒有博学而不穷，笃行而不倦”。
+东西
+善学路
+光地路
+435
+10
+8
+宏甫路
+Hóngfǔ Lù
+纪念明代思想家李贽（字宏甫），其《焚书》《藏书》批判传统礼教。
+南北
+学生公寓
+C区（文馨苑）
+俊秀文学院
+87
+10
+9
+行周路
+Xíngzhōu Lù
+纪念欧阳詹，字行周，晋江潘湖欧厝（今福建省晋江市池店镇潘湖村）人，唐代文学家、泉州第一位进士。
+南北
+陈伟利
+体育馆
+特教大楼
+281
+10
+10
+瑞图路
+Ruìtú Lù
+纪念明代书法家张瑞图（晋江人），其书法
+“奇逸峻峭”为晚明革新代表。
+南北
+美术与设计学院
+3期建设项目
+112
+10
+附件
+3
+泉州师范学院校内命名湖泊及公寓区一览表
+序号
+原名称
+命名
+名称
+拼音
+类别
+命名的缘由或含义
+1
+清源湖
+Qīngyuán Hú
+湖泊
+泉州标志性名山为清源山，
+“清源” 是城市文化核心符号之一。湖泊以“清源”命名，既呼应属地历史文脉，也让校园景观与泉州地域记忆深度绑定，凸显“校地共生”特质。
+2
+学生公寓区（
+A区）
+文慧苑
+Wénhuì Yuàn
+公寓区
+“文”代表文化、文明，体现对教育与人文素养的追求；“慧”意为智慧、聪慧，取自“秀外慧中”“独具慧眼”等典故。
+3
+学生公寓区（
+B区）
+文雅苑
+Wényǎ Yuàn
+公寓区
+“文雅”二字源自《大戴礼记》“如文雅之君子”，强调言行优雅、品德高尚。
+4
+学生公寓区（
+C区）
+文馨苑
+Wénxīn Yuàn
+公寓区
+“馨”意为温馨、馨香，既描绘温馨和谐的居住氛围，也暗合“德艺双馨”的人文追求。
+5
+学生公寓区（
+D区）
+文博苑
+Wénbó Yuàn
+公寓区
+“博”象征博学、广博，与“文”结合，寓意社区汇聚文化精华，鼓励学生追求知识、开阔视野。
+附件
+5
+泉州师范学院校园内命名道路、湖泊及公寓区示意图
+附件下载
+泉丰政综〔2025〕171号.pdf
+扫一扫在手机上查看当前页面
+相关解读
+文字解读
+图片解读
+视频解读
+访谈解读
+媒体报道
+//
+			if(location.href.indexOf("preview")!=-1){
+				document.querySelector("#file_xmb").classList.remove("no");
+			}else{
+				document.querySelector("#file_ul_xmb").innerHTML="";
+			}
+			//
+国家部委网站
+国家统计局
+国家市场监督管理总局
+国家税务总局
+科学技术部
+自然资源部
+国家卫生健康委员会
+退役军人事务部
+文化和旅游部
+应急管理部
+中华人民共和国中央...
+中华人民共和国国防部
+中国人民银行
+科学技术部
+国家民族事务委员会
+外交部
+水利部
+人力资源和社会保障部
+民政部
+教育部
+工业和信息化部
+交通运输部
+中国文明网
+商务部
+中华人民共和国海关...
+财政部
+农业农村部
+国家发展和改革委员会
+司法部
+住房和城乡建设部
+公安部
+审计署
+国家广播电视总局
+生态环境部
+国务院国有资产监督...
+省设区市网站
+中国福建
+福州市
+厦门市
+泉州市
+漳州市
+龙岩市
+莆田市
+三明市
+南平市
+县市区网站
+鲤城区人民政府
+丰泽区人民政府
+洛江区人民政府
+泉港区人民政府
+石狮市人民政府
+晋江市人民政府
+南安市人民政府
+惠安县人民政府
+安溪县人民政府
+永春县人民政府
+德化县人民政府
+泉州经济技术开发区
+泉州台商投资区
+网站说明
+|
+法律声明
+|
+联系我们
+|
+网站地图
+网站标识码：3505030001
+闽公网安备：35050302000391号
+闽ICP备05025851号-2
+版权所有：© 泉州市丰泽区人民政府
+新媒体矩阵
+
+看丰泽
+
+闽政通APP
+
+就泽办
+主办：丰泽区委宣传部 丰泽区人民政府办公室
+为确保最佳浏览效果，建议您使用以下浏览器版本：IE浏览器9.0版本及以上； Google Chrome浏览器 63版本及以上； 360浏览器9.1版本及以上，且IE内核9.0及以上。
+通知
+泉州市丰泽区人民政府门户网站注册和登录功能现由“福建省社会用户实名认证和授权平台”提供统一支持，用户在首次登录时，需注册账号方可使用。完成账号注册后，按页面提示登录系统即可。具体操作步骤如下：
+（1）点击“注册”，跳转注册界面
+（2）选择注册类别，填写相关信息，完成注册，跳转登录页面
+（3）按需选择登录方式登录即可,若有系统使用相关问题，请致电:0595-22508835。
+若有注册、登录问题，请致电0591-62623959，感谢您的理解与支持。
+确认登录
+var SITEID ='54';
+    var CHNLID = '28894';
+    var DOCID = '3231018';
+    var title= "泉州市丰泽区人民政府关于公布东海片区海丝大街”等17条市政道路名称的通知";
+var qrcode = new QRCode(document.getElementById("qrcode"), {
+			width: 132,
+			height: 132
+		});
+		var url = window.location.href;
+		qrcode.makeCode(url);
+		$.trt_share();
+		var $detailVm=avalon.define("detail",function($scope){
+			$scope.detailFont=16;
+			$scope.resetFontSize=function(){
+				$scope.detailFont=16;
+			}
+			$scope.addFontSize=function(){
+				if($scope.detailFont==28) return;
+				$scope.detailFont+=2;
+			}
+			$scope.decreaseFontSize=function(){
+				if($scope.detailFont==10) return;
+				$scope.detailFont-=2;
+			}
+		})
+		
+		/*  1、文件有效性          begin */
+		/*  动态判断文件的有效性 begin    <li class="trt-col-12 trt-col-sm-24">有效性：<em class="red_base">有效</em></li>*/
+		function getaboliHtmlStr(status){
+			var _trHtml= '<li class="trt-col-12 trt-col-sm-24">有效性：<em class="red_base">' + status + '</em></li>' ;
+			return _trHtml
+		}
+		var abolidate = '';
+		var crdept = '未设置';
+                var now = new Date();
+		var sxrq = new Date(abolidate);
+                if(abolidate!=''){
+			if(sxrq >= now){
+                          if(crdept!="未设置"&&crdept!=""){
+		               $(".shadow_base ul").append(getaboliHtmlStr(crdept));
+                          }else{
+			       $(".shadow_base ul").append(getaboliHtmlStr("有效"));
+                          }
+                        }else{
+				$(".shadow_base ul").append(getaboliHtmlStr("失效"));
+                        }
+                }else{
+                        if(crdept!="未设置"&&crdept!=""){
+			$(".shadow_base ul").append(getaboliHtmlStr(crdept));
+                        }
+		}
+		/*  动态判断文件的有效性 end */
+		/*  文件有效性          end */
+		
+		/*  2、全真版/文字版、附件下载		begin */
+		var _contentOjb={
+			fileNo:'泉丰政综〔2025〕171号',
+			fileUrl:'',
+			files:[
+				//
+				//
+				{
+					desc:'泉丰政综〔2025〕171号.pdf',//文件描述
+					url:'https://www.qzfz.gov.cn/zwgk/zfxxgkzl/zfxxgkml/csjsgl/202511/P020251114567769290374.pdf', //文件地址
+					fileExt:'pdf'
+				}
+				//
+				//
+				//
+			]
+		}
+		for (var index = 0; index < _contentOjb.files.length; index++) {
+			var element = _contentOjb.files[index];
+			//匹配规则必须为 文号.pdf=pdf附件
+			if(element.desc==_contentOjb.fileNo+".pdf"){
+				_contentOjb.fileUrl=element.url;
+			}else{
+				$("#file_ul_xmb").append('<li><a href="'+element.url+'"  download="'+element.desc+'" >'+element.desc+'</a></li>');
+				continue;
+			}
+		}
+		//处理附件下载显示
+		var _fileLength_xmb=$("#file_ul_xmb li").length;
+		if(_fileLength_xmb>0){
+			$("#file_xmb").removeClass("no");
+		}
+		//加入全真版/文字版切换栏
+
+		
+		if(_contentOjb.fileUrl){
+			$("#main_xmb").addClass("tabs")
+			$("#main_xmb").addClass("tab_base_01")
+			$("#main_xmb").prepend(				
+									'<div class="tabs_hd  text_align_center parent_relative">\
+										<ul >\
+											<li><a href="javascript:void(0)">全真版</a></li>\
+											<li><a href="javascript:void(0)">文字版</a></li>\
+										</ul>\
+										<a class="download" href="'+_contentOjb.fileUrl+'" download="'+_contentOjb.fileNo+'.pdf"  ><i class="trt-iconfont trt-icon-pdf"></i>文件下载</a>\
+									</div>');
+			$("#content_xmb").prepend('<iframe class="ifr" frameborder="0" scrolling="no" src="/comps/web/viewer.html?file='+_contentOjb.fileUrl+'"></iframe>');
+			//jQuery(".tit_hov").slide({titOnClassName:'on'});
+			$("#loading_xmb").toggle();
+			$("#main_xmb").removeClass("no");
+			
+			var w = $(window).innerWidth();
+			if(w>992){
+				$(".tabs").slide({titCell: ".tabs_hd li", mainCell:".tabs_bd", effect:"fade", targetCell:".tabs_hd .more a"});
+			}
+			else if(w>640 && w<991){
+				$(".tabs").each(function(i){
+					if($(this).attr("id")){
+						//TouchSlide({ slideCell:this.attr("id"),titCell:".tabs_hd li",mainCell:".tabs_bd" });
+					}else{
+						$(this).attr("id","touchSlide"+i);
+					}
+					TouchSlide({ slideCell:$(this).attr("id"),titCell:".tabs_hd li",mainCell:".tabs_bd" });
+				})
+				
+			}
+			else{
+				$(".tabs").each(function(i){
+					if($(this).attr("id")){
+						//TouchSlide({ slideCell:this.attr("id"),titCell:".tabs_hd li",mainCell:".tabs_bd" });
+					}else{
+						$(this).attr("id","touchSlide"+i);
+					}
+					TouchSlide({ slideCell:$(this).attr("id"),titCell:".tabs_hd li",mainCell:".tabs_bd" });
+				})
+			}
+		}
+		//若是不存在全真版pdf则只显示文字内容
+		if(!_contentOjb.fileUrl){
+			$("#loading_xmb").toggle();
+			$("#main_xmb").removeClass("no");
+		}
+		/*  全真版/文字版、附件下载		    end	  */
+
+		/*  3、相关解读		begin */
+		var _relNewsObj_xmb=[
+			
+		]
+		if(_relNewsObj_xmb.length>0){
+			$("#relList").removeClass("no");
+			$("#relList").siblings().removeClass("trt-col-24")
+			$("#relList").siblings().addClass("trt-col-18")
+			$("#relList").parent().addClass("xl_line")
+		}
+		for (var index = 0; index < _relNewsObj_xmb.length; index++) {
+			var element = _relNewsObj_xmb[index];
+			switch(element.unitForm){
+				case '文字':
+					$("#wzjdList").append(
+						'<li><a href="'+element.docPubUrl+'" target="_blank" title="'+element.docTitle+'" >'+element.docTitle+'</a></li>'
+					);
+					if($("#wzjd").hasClass("no")){
+						$("#wzjd").removeClass("no");
+					}
+					break;
+				case '图解':
+					$("#tpjdList").append(
+						'<li><a target="_blank" href="'+element.docPubUrl+'" title="'+element.docTitle+'" style="background-image: url('+element.docImg+'),url(/images/221213_tu.png); background-size:cover;" class="picture_fixed picture_scale_169"></a></li>'
+					);
+					if($("#tpjd").hasClass("no")){
+						$("#tpjd").removeClass("no");
+					}
+					break;
+				case '视频':
+					$("#spjdList").append(
+						'<li><a href="'+element.docPubUrl+'" target="_blank" title="'+element.docTitle+'" >'+element.docTitle+'</a></li>'
+					);
+					if($("#spjd").hasClass("no")){
+						$("#spjd").removeClass("no");
+					}
+					break;
+
+				case '访谈':
+					$("#ftjdList").append(
+						'<li><a href="'+element.docPubUrl+'" target="_blank" title="'+element.docTitle+'" >'+element.docTitle+'</a></li>'
+					);
+					if($("#ftjd").hasClass("no")){
+						$("#ftjd").removeClass("no");
+					}
+					break;
+				case '报道':
+					$("#bdjdList").append(
+						'<li><a href="'+element.docPubUrl+'" target="_blank" title="'+element.docTitle+'" >'+element.docTitle+'</a></li>'
+					);
+					if($("#bdjd").hasClass("no")){
+						$("#bdjd").removeClass("no");
+					}
+					break;
+				default :
+					$("#xgjdList").append(
+						'<li><a href="'+element.docPubUrl+'" target="_blank" title="'+element.docTitle+'" >'+element.docTitle+'</a></li>'
+					);
+					if($("#xgjd").hasClass("no")){
+						$("#xgjd").removeClass("no");
+					}
+					break;
+			}
+		}
+		/*     相关解读		end */
