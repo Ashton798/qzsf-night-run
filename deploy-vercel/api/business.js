@@ -467,8 +467,8 @@ async function route(req, res, url) {
   }
 
   if (req.method === 'POST' && p === '/api/v2/admin/login') {
-    const b = await body(req); const user = clean(b.username, 60); const pass = String(b.password || '');
-    const expectedUser = String(process.env.ADMIN_USERNAME || 'admin'); const expectedPass = String(process.env.ADMIN_PASSWORD || '');
+    const b = await body(req); const expectedUser = String(process.env.ADMIN_USERNAME || 'admin'); const expectedPass = String(process.env.ADMIN_PASSWORD || '');
+    const user = b.username == null ? expectedUser : clean(b.username, 60); const pass = String(b.password || '');
     const key=hash('admin:'+user.toLowerCase());
     const attempts=await db`INSERT INTO qz_admin_login_attempts(key,count,expires_at) VALUES(${key},1,NOW()+INTERVAL '15 minutes') ON CONFLICT(key) DO UPDATE SET count=CASE WHEN qz_admin_login_attempts.expires_at<NOW() THEN 1 ELSE qz_admin_login_attempts.count+1 END,expires_at=CASE WHEN qz_admin_login_attempts.expires_at<NOW() THEN NOW()+INTERVAL '15 minutes' ELSE qz_admin_login_attempts.expires_at END RETURNING count`;
     if(attempts[0].count>10)throw coded('LOGIN_RATE_LIMIT','尝试过多，请 15 分钟后再试',429);
