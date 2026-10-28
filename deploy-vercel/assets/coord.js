@@ -166,7 +166,7 @@
     return s;
   }
 
-  window.Coord = {
+  var api = {
     // 单点转换
     wgs2gcj: wgs2gcj,
     gcj2wgs: gcj2wgs,
@@ -187,4 +187,6 @@
     // 兼容旧代码
     arr: function (pts) { return convertAll(pts, 'wgs84', 'gcj02'); }
   };
+  if (typeof module !== 'undefined' && module.exports) module.exports = api;
+  else window.Coord = api;
 })();

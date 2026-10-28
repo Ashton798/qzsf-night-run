@@ -4,5 +4,6 @@
   "version": "3.0.0",
   "type": "commonjs",
   "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test ../tests/admin-domain.test.cjs", "test:db": "node --test ../tests/admin-postgres.test.cjs" },
   "dependencies": { "postgres": "^3.4.7" }
 }

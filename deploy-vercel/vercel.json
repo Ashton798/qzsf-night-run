@@ -1,13 +1,24 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "version": 2,
+  "functions": {
+    "api/backend.js": {
+      "includeFiles": "api/migrations/*.sql"
+    },
+    "api/v2.js": { "includeFiles": "api/migrations/*.sql" }
+  },
   "cleanUrls": false,
   "trailingSlash": false,
   "rewrites": [
+    { "source": "/admin", "destination": "/admin/index.html" },
+    { "source": "/admin/", "destination": "/admin/index.html" },
+    { "source": "/api/v2/:path*", "destination": "/api/v2" },
     { "source": "/api/:path*", "destination": "/api/backend" },
     { "source": "/_AMapService/:path*", "destination": "/api/backend" }
   ],
   "headers": [
+    { "source": "/admin(.*)", "headers": [{ "key": "Cache-Control", "value": "no-store" }, { "key": "X-Frame-Options", "value": "DENY" }, { "key": "X-Robots-Tag", "value": "noindex, nofollow" }] },
+    { "source": "/api/v2/(.*)", "headers": [{ "key": "Cache-Control", "value": "no-store" }] },
     { "source": "/data/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600" }] },
     { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=300" }] },
     { "source": "/config.js", "headers": [{ "key": "Cache-Control", "value": "no-store" }] },
